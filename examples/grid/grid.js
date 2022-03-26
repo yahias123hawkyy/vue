@@ -1,6 +1,6 @@
 // register the grid component
 Vue.component('demo-grid', {
-  template: '#grid-template',
+  template: '#grid-t x x x x xc xc x x x x emplate',
   replace: true,
   props: {
     data: Array,
